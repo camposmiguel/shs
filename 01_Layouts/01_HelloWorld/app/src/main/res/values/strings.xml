@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">01_HelloWorld</string>
+    <string name="button_one">Botón 1</string>
+    <string name="click_like">Ha hecho click en like</string>
+</resources>

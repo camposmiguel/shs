@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">01_ListaSimple</string>
+    <string name="edit_text_nombre_alumno">Nombre</string>
+</resources>

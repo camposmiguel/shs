@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">02_FormComponents</string>
+    <string-array name="weeksdays_array">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+    </string-array>
+</resources>
